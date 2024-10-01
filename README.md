@@ -12,3 +12,6 @@ As I continue my journey in my forming school, I'm super interested about findin
 ## Contact me
 We can create something amazing together !
 -marinamonsa@gmal.com
+
+## Lenguages
+English - Spanish - French
