@@ -7,7 +7,7 @@ I strongly believe that our customers ideas really matter.
 
 ## Looking Ahead
 
-As I continue my journey in my forming school, I'm super interested about finding new challenges that can help me become a better proffesional.
+As I continue my journey in my forming school, I'm super interested about finding new challenges that can help me become a better professional.
 
 ## Contact me
 We can create something amazing together !
