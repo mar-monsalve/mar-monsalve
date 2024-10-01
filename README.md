@@ -1,5 +1,5 @@
 # Hi! I'm Marina!
-👋 Hi, I’m @mar-monsalve
+\n👋 Hi, I’m @mar-monsalve
 👀 I’m interested in ... cats
 🌱 I’m currently learning ... c; assembler; haskell
 💞️ I’m looking to collaborate on ... cool student proyects
