@@ -2,7 +2,7 @@
 
 ## About me
 
-Hello I'm a passionate learner with a key focus on C, Assembler and the other lenguages I'm being taught at University.
+Hello I'm a passionate learner with a key focus on C, Assembler and the other languages I'm being taught at University.
 I strongly believe that our customers ideas really matter. 
 
 ## Looking Ahead
@@ -13,5 +13,5 @@ As I continue my journey in my forming school, I'm super interested about findin
 We can create something amazing together !
 -marinamonsa@gmal.com
 
-## Lenguages
+## Languages
 English - Spanish - French
