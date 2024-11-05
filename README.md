@@ -2,7 +2,7 @@
 
 ## About me
 
-Hello I'm a passionate learner with a key focus on C, Assembler and the others lenguages I'm being taught at University.
+Hello I'm a passionate learner with a key focus on C, Assembler and the other lenguages I'm being taught at University.
 I strongly believe that our customers ideas really matter. 
 
 ## Looking Ahead
